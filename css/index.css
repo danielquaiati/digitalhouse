@@ -23,8 +23,9 @@ header {
     font-size: 30px;
     padding-top: 50px;
     height: 200px;
-    color: #73296b;
-    text-shadow: 2px 2px #0360a2;
+    color: black;
+    text-shadow: 3px 3px #73296b;
+    font-family: corbel;
 
 }
 
