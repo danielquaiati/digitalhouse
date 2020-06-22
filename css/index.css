@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(../imgs/body2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+main {
+    max-width: 1280px;
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+    margin-top: 0px;
+}
+
+header {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+    height: 200px;
+    color: #73296b;
+    text-shadow: 2px 2px #0360a2;
+
+}
+
+#html {
+    margin: 100px;
+}
+
+#css {
+    float: right;
+    margin: 100px;
+
+}
+
+#js {
+    margin: 10px;
+
+}
+
+#php {
+    float: right;
+    margin: 10px;
+    margin-top: 190px;
+}

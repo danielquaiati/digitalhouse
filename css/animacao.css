@@ -1,0 +1,31 @@
+@keyframes gira {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+#logo {
+    height: 100px;
+
+    animation: gira 8s linear infinite;
+}
+
+a:hover {
+    filter: grayscale(100%);
+    transition: 2s;
+
+}
+
+#html:hover,
+#css:hover {
+    transform: rotate(180deg);
+    transition: 2s;
+
+}
+
+
+#php:hover,
+#js:hover {
+    transform: rotate(-180deg);
+    transition: 2s;
+}
