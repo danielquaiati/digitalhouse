@@ -18,3 +18,17 @@ button {
     font-size: 20px;
     color: white;
 }
+
+#total {
+    max-width: 1280px;
+    width: 1280px;
+    background-color: blue;
+    height: 10 00px;
+}
+
+#lista ul {
+    width: 97%;
+    margin-left: 3%;
+    font-size: 30px;
+    font-family: corbel;
+}

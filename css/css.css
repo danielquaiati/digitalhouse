@@ -1,3 +1,12 @@
 #tcss{
     color:#2362af;
 }
+
+button {
+    background-color: #2362af;
+    height: 50px;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    
+}
