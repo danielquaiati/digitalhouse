@@ -10,7 +10,6 @@ body {
     background-attachment: fixed;
 }
 
-
 main {
     max-width: 1280px;
     margin: auto;
@@ -22,30 +21,27 @@ header {
     padding-top: 50px;
     height: 120px;
     width: 100%;
-    
-
 }
 
 nav {
     height: 120px;
     text-align: center;
     width: 100%;
-    
 }
 
-nav a{
+nav a {
     padding-left: 5%;
 }
+
 .icones {
     height: 120px;
     left: 50%;
-
 }
 
 section {
-    background-color: rgba(255,255,255,0.75);
+    background-color: rgba(255, 255, 255, 0.75);
     text-align: justify;
-    padding-left: 20px;    
+    padding-left: 20px;
     padding-right: 20px;
     width: 86%;
     margin-left: 7%;
@@ -61,36 +57,34 @@ h2 {
     text-shadow: 1px 1px black;
     font-size: 40px;
     text-align: center;
-    
 }
 
 section p {
     font-size: 30px;
     line-height: 40px;
-
 }
 
-footer{
+footer {
     max-width: 1280px;
     width: 100%;
     margin: auto;
 }
 
-footer p{
+footer p {
     padding-top: 10px;
     margin-right: 60px;
-    float:right;
+    float: right;
     padding-bottom: 10px;
 }
 
-.tcss{
-    color:#2362af;
+.tcss {
+    color: #2362af;
 }
 
-#tjs{
+.tjs {
     color: #63a814;
 }
 
-#tphp{
-    color:#5868a4
+.tphp {
+    color: #5868a4
 }
